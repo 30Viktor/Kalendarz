@@ -1,0 +1,291 @@
+html{
+    scroll-behavior: smooth;
+}
+header{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    color: rgb(0, 13, 95);
+    margin-top: 120px;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 30px;
+}
+body{
+    background-image: url(backchristmas.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+#s1{
+display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr;
+grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr ;
+row-gap: 100px;
+justify-content: center;
+margin-left: 100px;
+
+margin-top: 70px;
+}
+.divs1{
+    background-image: url(backwinter3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    height: 300px;
+    width: 300px;
+    border: 5px solid rgba(0, 13, 95, 0.54);
+    border-radius: 150px;
+    box-shadow: 0px 0px 8px 8px rgba(0, 12, 51, 0.68);
+      color: rgb(224, 0, 0);
+      font-size: 100px;
+      transition: 1s;
+      font-family:cursive;
+}
+
+.divs1:hover{
+    border: 5px solid rgba(199, 239, 255, 0.801);
+    box-shadow: 0px 0px 8px 8px rgba(0, 22, 133, 0.678);
+    transition: 1s;
+    color: rgba(255, 255, 255, 0);
+    
+}
+
+#firsth1:hover{
+  color: rgb(27, 0, 102);
+
+}
+#butt{
+    margin-top: 10px;
+margin-left: auto;
+margin-right: auto;
+
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url(backwinter3.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+color: aliceblue;
+width: 200px;
+height: 50px;
+border-radius: 30px;
+border: 5px solid rgba(0, 13, 95, 0.54);
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 35px;
+}
+ #img1{height: 270px;
+    position: absolute;
+opacity: 0;
+transition: 1s;
+ }
+ #img1:hover{
+opacity: 1;
+}
+#img2{
+    height: 250px;
+    position: absolute;
+    opacity: 0;
+    transition: 1s;
+     }
+     #img2:hover{
+    opacity: 1;
+    }
+    #img3{
+        height: 290px;
+        position: absolute;
+        opacity: 0;
+        transition: 1s;
+         }
+         #img3:hover{
+        opacity: 1;
+        }
+        #img4{margin-right: 30px;
+            height: 250px;
+            position: absolute;
+            opacity: 0;
+            transition: 1s;
+             }
+             #img4:hover{
+            opacity: 1;
+            }
+            #img5{
+                height: 150px;
+                position: absolute;
+                opacity: 0;
+                transition: 1s;
+                 }
+                 #img5:hover{
+                opacity: 1;
+                }
+                #img6{
+                    height: 300px;
+                    position: absolute;
+                    opacity: 0;
+                    transition: 1s;
+                     }
+                     #img6:hover{
+                    opacity: 1;
+                    }
+#img7{
+ height: 280px;
+position: absolute;
+opacity: 0;
+transition: 1s; }
+#img7:hover{
+opacity: 1;
+}    
+#img8{
+    height: 250px;
+   position: absolute;
+   opacity: 0;
+   transition: 1s; }
+   #img8:hover{
+   opacity: 1;
+   }   
+   #img9{
+    height: 250px;
+    position: absolute;
+   opacity: 0;
+   transition: 1s; }
+   #img9:hover{
+   opacity: 1;
+   }
+   #img10{margin-bottom: 48px;
+    height: 250px;
+    position: absolute;
+   opacity: 0;
+   transition: 1s; }
+   #img10:hover{
+   opacity: 1;
+   }
+   #img11{
+    height: 250px;
+    position: absolute;
+   opacity: 0;
+   transition: 1s; }
+   #img11:hover{
+   opacity: 1;
+   }   
+   #img12{
+    height: 230px;
+    position: absolute;
+   opacity: 0;
+   transition: 1s; }
+   #img12:hover{
+   opacity: 1;
+   }  
+   #img13{text-align: center;
+    color: azure;
+    font-size: 45px;
+    font-style: italic;
+    position: absolute;
+   opacity: 0;
+   transition: 1s; }
+   #img13:hover{
+   opacity: 1;
+   } 
+   #img14{
+    height: 250px;
+    position: absolute;
+   opacity: 0;
+   transition: 1s; }
+   #img14:hover{
+   opacity: 1;
+   }     
+   #img15{
+    height: 200px;
+    position: absolute;
+   opacity: 0;
+   transition: 1s; }
+   #img15:hover{
+   opacity: 1;
+   }    
+   #img16{
+    height: 250px;
+    position: absolute;
+   opacity: 0;
+   transition: 1s; }
+   #img16:hover{
+   opacity: 1;
+   } 
+   #img17{margin-top: 20px;
+    height: 220px;
+    position: absolute;
+   opacity: 0;
+   transition: 1s; }
+   #img17:hover{
+   opacity: 1;
+   }
+   #img18{
+    height: 250px;
+    position: absolute;
+   opacity: 0;
+   transition: 1s; }
+   #img18:hover{
+   opacity: 1;
+   } 
+   #img20{margin-left: 30px;
+    margin-top: 30px;
+    height: 280px;
+    position: absolute;
+   opacity: 0;
+   transition: 1s; }
+   #img20:hover{
+   opacity: 1;
+   }
+   #img21{
+    height: 180px;
+    position: absolute;
+   opacity: 0;
+   transition: 1s; }
+   #img21:hover{
+   opacity: 1;
+   }
+   #img22{
+    height: 230px;
+    position: absolute;
+   opacity: 0;
+   transition: 1s; }
+   #img22:hover{
+   opacity: 1;
+   }
+   #img23{
+    height: 230px;
+    position: absolute;
+   opacity: 0;
+   transition: 1s; }
+   #img23:hover{
+   opacity: 1;
+   }
+   
+   #s2{justify-content: center;
+    margin-top: 100px;
+    display: flex;
+   }   
+   #right{margin-top: 90px;
+    margin-left: 70px;
+    border: 5px solid rgba(0, 7, 54, 0.849);
+    box-shadow: 0px 0px 8px 8px rgba(0, 12, 51, 0.68);
+    height: 500px;
+   }
+   h3{font-style: italic;
+    color: rgb(0, 0, 105);
+    font-size: 50px;
+   }
+   #imgl{
+    height: 500px;
+    width: 600px;
+   }
