@@ -289,3 +289,15 @@ opacity: 1;
     height: 500px;
     width: 600px;
    }
+
+#wykonakie{
+    margin: 10px;
+display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#h1wy{
+color:;
+    color: rgb(0, 0, 105)
+}
+
